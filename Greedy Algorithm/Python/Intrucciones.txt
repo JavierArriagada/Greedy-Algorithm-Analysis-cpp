@@ -1,0 +1,13 @@
+A la hora de compilar se debe hacer lo siguiente:
+
+py main.py nombretexto.txt
+
+nombretexto.txt, debe tener 3 parámetros
+
+Letra Inicio Final
+
+Con letra nos referimos a un identificador que llevara cada nodo.
+Inicio indica la hora de inicio de una actividad.
+Final indica la hora de termino de una actividad.
+
+Se adjuntan 2 ejemplos en la carpeta para más claridad

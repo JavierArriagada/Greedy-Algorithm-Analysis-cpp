@@ -1,0 +1,10 @@
+Para hacer correr random.cpp, simplemente compilar y ejecutar.
+
+Para hacer correr analisis.cpp y si se quiere cambiar la cantidad de nodos,
+hora de inicio y de termino, ir a mal.txt y modificar a antojo. Se deben ingresar
+datos tal que 
+horainicio horatermino
+1           2
+3           4
+etc         etc
+Igual dentro de mal.txt hay un ejemplo que espero deje más claro
