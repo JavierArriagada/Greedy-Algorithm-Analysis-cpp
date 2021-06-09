@@ -1,2 +1,2 @@
-# Greedy-Algorithm-Analysis-c-
+# Greedy-Algorithm-Analysis-cpp
 Analsis algoritmos, Greedy
